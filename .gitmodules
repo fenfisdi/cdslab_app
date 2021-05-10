@@ -1,24 +1,24 @@
 [submodule "cdslab_users_api"]
 	path = cdslab_users_api
-	url = git@github.com:fenfisdi/cdslab_users_api.git
+	url = https://github.com/fenfisdi/cdslab_users_api.git
 [submodule "cdslab_file_api"]
 	path = cdslab_file_api
-	url = git@github.com:fenfisdi/cdslab_file_api.git
+    url = https://github.com/fenfisdi/cdslab_file_api.git
 [submodule "cdslab_auth"]
 	path = cdslab_auth
-	url = git@github.com:fenfisdi/cdslab_auth.git
+	url = https://github.com/fenfisdi/cdslab_auth.git
 [submodule "cdslab_management"]
 	path = cdslab_management
-	url = git@github.com:fenfisdi/cdslab_management.git
+	url = https://github.com/fenfisdi/cdslab_management.git
 [submodule "cdslab_cmodels_api"]
 	path = cdslab_cmodels_api
-	url = git@github.com:fenfisdi/cdslab_cmodels_api.git
+	url = https://github.com/fenfisdi/cdslab_cmodels_api.git
 [submodule "cdslab"]
 	path = cdslab
-	url = git@github.com:fenfisdi/cdslab.git
+	url = https://github.com/fenfisdi/cdslab.git
 [submodule "cdslib_agents"]
 	path = cdslib_agents
-	url = git@github.com:fenfisdi/cdslib_agents.git
+	url = https://github.com/fenfisdi/cdslib_agents.git
 [submodule "cdslib_cmodels"]
 	path = cdslib_cmodels
-	url = git@github.com:fenfisdi/cdslib_cmodels.git
+	url = https://github.com/fenfisdi/cdslib_cmodels.git

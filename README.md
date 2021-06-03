@@ -47,9 +47,11 @@ scenarios, from small compartments to cities.
 
 ### Dinjo
 
-The [Dijo](https://github.com/fenfisdi/dinjo) module
-implements a dynamical deterministic model describing epidemics following
-a SEIRV model.
+The [Dijo](https://github.com/fenfisdi/dinjo) module serves as a framework
+to implement dynamical deterministic models describing epidemics, it provides
+optimization and enough generalization such that it can be used outside of the
+scope of CDSLib, meaning that it is not just an optimizer but a general tool which
+can be used broadly in the field of epidemics.
 
 ## CDSLab
 

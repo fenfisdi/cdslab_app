@@ -19,7 +19,7 @@ decision makers to take decisions based in the most advanced models.
   - [Table of contents](#table-of-contents)
   - [Available models](#available-models)
     - [CDSLib_agents](#cdslib_agents)
-    - [CDSLib_cmodels](#cdslib_cmodels)
+    - [Dinjo](#dinjo)
   - [CDSLab](#cdslab)
     - [Architectural diagram](#architectural-diagram)
     - [CDSLab_auth](#cdslab_auth)
@@ -45,9 +45,9 @@ The [CDSLib_agents](https://github.com/fenfisdi/cdslib_agents) module
 implements an agent based model describing contagion dynamic in different
 scenarios, from small compartments to cities.
 
-### CDSLib_cmodels
+### Dinjo
 
-The [CDSLib_cmodels](https://github.com/fenfisdi/cdslib_cmodels) module
+The [Dijo](https://github.com/fenfisdi/dinjo) module
 implements a dynamical deterministic model describing epidemics following
 a SEIRV model.
 
@@ -80,7 +80,7 @@ implements users' CRUD operations API for CDSLab.
 
 The [CDSLab_cmodels_api](https://github.com/fenfisdi/cdslab_cmodels_api) module
 implements an API for CDSLab consumption of
-[CDSLib_cmodels](https://github.com/fenfisdi/cdslib_cmodels) module.
+[Dijo](https://github.com/fenfisdi/dinjo) module.
 
 ## How to contribute?
 

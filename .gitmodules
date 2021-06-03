@@ -13,12 +13,12 @@
 [submodule "cdslab_cmodels_api"]
 	path = cdslab_cmodels_api
 	url = https://github.com/fenfisdi/cdslab_cmodels_api.git
-[submodule "cdslab"]
-	path = cdslab
-	url = https://github.com/fenfisdi/cdslab.git
 [submodule "cdslib_agents"]
 	path = cdslib_agents
 	url = https://github.com/fenfisdi/cdslib_agents.git
-[submodule "cdslib_cmodels"]
-	path = cdslib_cmodels
-	url = https://github.com/fenfisdi/cdslib_cmodels.git
+[submodule "dinjo"]
+	path = dinjo
+	url = https://github.com/fenfisdi/dinjo.git
+[submodule "cdslab_webpage"]
+	path = cdslab_webpage
+	url = https://github.com/fenfisdi/cdslab_webpage.git

@@ -128,10 +128,12 @@ Visit our page for further information:
 - Camilo Hincapié, Data Scientist, Physics MSc, Universidad de Antioquia
   - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494583), [Perfil en LinkedIn](https://www.linkedin.com/in/camilo-hincapie-gutierrez/)
 - Lina Ruiz, Biology MSc Student
+- Mariana  Jaramillo, Physicist
+- Ian Mejía, Physicist
+  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001870820)
+  - [Perfil en LinkedIn](https://www.linkedin.com/in/ian-nicol%C3%A1s-ram%C3%ADrez-mej%C3%ADa-61aaa220b/)
 - Nicole Rivera, Physics BSc Student
 - Juan Esteban Aristizábal, Physics BSc
-- Mariana  Jaramillo, Physics BSc Student
-- Elías De Vargas, Systems Engineer
 - Luis Papiernik, Physics BSc Student
 - Elkin Bonet, Public Health MSc Student
 - Sebastián Espejo, Biologist, UdeA
@@ -141,8 +143,8 @@ Visit our page for further information:
 - Juan Pablo Pérez
 - Sofía Sánchez, Biology BSc Student
 - Andrea Sánchez, Public Health BSc Student
-- Ian Mejía, Physics BSc Student
 - Alejandro Campillo Barrios, Bioengineering BSc Student
+- Elías De Vargas, Systems Engineer
 
 ## Sponsor information
 

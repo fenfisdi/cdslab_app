@@ -118,15 +118,19 @@ Visit our page for further information:
 ### Team
 
 - Boris Rodriguez, Physics Professor, Universidad de Antioquia
-  - [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000057681), [Perfil en Google Scholar](https://scholar.google.com/citations?user=swUKsPkAAAAJ&hl=es)
+  - [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000057681)
+  - [Perfil en Google Scholar](https://scholar.google.com/citations?user=swUKsPkAAAAJ&hl=es)
 - Isabel Hoyos, Physics Professor, Universidad del Quindío
-  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000236594), [Perfil en Google Scholar](https://scholar.google.com/citations?user=YzeNe7EAAAAJ&hl=es)
+  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000236594)
+  - [Perfil en Google Scholar](https://scholar.google.com/citations?user=YzeNe7EAAAAJ&hl=es)
 - Paula Díaz, Public Health Professor, Universidad de Antioquia
-  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000168785), [@diazpaula](https://twitter.com/diazpaula)
+  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000168785)
+  - [@diazpaula](https://twitter.com/diazpaula)
 - Gloria Machado, Biology Professor, Universidad de Antioquia
   - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028061)
 - Camilo Hincapié, Data Scientist, Physics MSc, Universidad de Antioquia
-  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494583), [Perfil en LinkedIn](https://www.linkedin.com/in/camilo-hincapie-gutierrez/)
+  - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494583)
+  - [Perfil en LinkedIn](https://www.linkedin.com/in/camilo-hincapie-gutierrez/)
 - Lina Ruiz, Biology MSc Student
 - Mariana  Jaramillo, Physicist
 - Ian Mejía, Physicist

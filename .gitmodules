@@ -22,3 +22,15 @@
 [submodule "cdslab_webpage"]
 	path = cdslab_webpage
 	url = https://github.com/fenfisdi/cdslab_webpage.git
+[submodule "cdslab_error_log"]
+	path = cdslab_error_log
+	url = https://github.com/fenfisdi/cdslab_error_log.git
+[submodule "cdslab_agents_simulation_api"]
+	path = cdslab_agents_simulation_api
+	url = https://github.com/fenfisdi/cdslab_agents_simulation_api.git
+[submodule "cdslab_api_cloud"]
+	path = cdslab_api_cloud
+	url = https://github.com/fenfisdi/cdslab_api_cloud.git
+[submodule "cdslab_agents_config_api"]
+	path = cdslab_agents_config_api
+	url = https://github.com/fenfisdi/cdslab_agents_config_api.git

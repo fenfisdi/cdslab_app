@@ -47,7 +47,7 @@ scenarios, from small compartments to cities.
 
 ### Dinjo
 
-The [Dijo](https://github.com/fenfisdi/dinjo) module serves as a framework
+The [Dinjo](https://github.com/fenfisdi/dinjo) module serves as a framework
 to implement dynamical deterministic models describing epidemics, it provides
 optimization and enough generalization such that it can be used outside of the
 scope of CDSLib, meaning that it is not just an optimizer but a general tool which

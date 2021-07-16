@@ -135,7 +135,7 @@ Visit our page for further information:
 - Mariana  Jaramillo, Physicist
 - Ian Mejía, Physicist
   - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001870820)
-  - [Perfil en LinkedIn](https://www.linkedin.com/in/ian-nicol%C3%A1s-ram%C3%ADrez-mej%C3%ADa-61aaa220b/)
+  - [Perfil en LinkedIn](https://www.linkedin.com/in/ian-mejia-61aaa220b/)
 - Nicole Rivera, Physics BSc Student
 - Juan Esteban Aristizábal, Physics BSc
 - Luis Papiernik, Physics BSc Student
